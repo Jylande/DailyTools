@@ -1,0 +1,13 @@
+Package: DailyTools
+Type: Package
+Title: Revalue the vector
+Version: 1.0
+Date: 2022-03-08
+Author: Haowei Ni
+Maintainer: Haowei Ni <jylande@163.com>
+Description: The package is used to process daily 
+    data, including data cleaning, batch assignment, etc.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
